@@ -6,8 +6,7 @@ This is a simple and interactive **Exchange Rate Calculator** built using HTML, 
 
 ## 🌐 Live Demo
 
-> *(Optional: Add your GitHub Pages/Vercel link here once deployed)*  
-Example: https://your-username.github.io/exchange-rate-calculator/
+Example:[(https://thecodingdior.github.io/Exchange-Rate-Calculator/)]
 
 ---
 
